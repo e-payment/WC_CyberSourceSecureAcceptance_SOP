@@ -29,10 +29,10 @@
 
 ```
 * Card Type/Number:
-  Visa				  4000 0000 0000 0002
-  MasterCard		  5555 5555 5555 4444
-  Maestro Int'l	      6000 3400 0000 9859
-  American Express	  378  2822 4631 0005
+  Visa                4000 0000 0000 0002
+  MasterCard          5555 5555 5555 4444
+  Maestro Int'l       6000 3400 0000 9859
+  American Express    378  2822 4631 0005
  
 * Expiration Date: any date in the future
 * Card Security Code: any 3 digits
